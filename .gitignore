@@ -1,0 +1,13 @@
+challenge_1/data/pirate_pain_test.csv
+challenge_1/data/pirate_pain_train.csv
+challenge_1/data/pirate_pain_train_labels.csv
+challenge_1/src/models
+challenge_1/src/tensorboard
+challenge_1/src/dml_env
+
+challenge_2/data/test_data
+challenge_2/data/train_data
+challenge_2/data/runtime
+challenge_2/src/models
+challenge_2/src/tensorboard
+challenge_2/src/dml_env
